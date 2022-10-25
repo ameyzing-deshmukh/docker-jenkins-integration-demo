@@ -8,5 +8,5 @@
 
 	<build>
 		<finalName>docker-jenkins-integration-demo</finalName>
-	</build>
+	</build> 
 </project>
